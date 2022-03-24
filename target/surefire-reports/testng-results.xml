@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82" started-at="2022-03-12T01:49:51 IST" finished-at="2022-03-12T01:49:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82" started-at="2022-03-12T01:49:51 IST" finished-at="2022-03-12T01:49:51 IST">
+      <class name="QuickAcademy.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="appleIos()[pri:0, instance:QuickAcademy.MavenJava.AppiumTest@1438d26]" name="appleIos" duration-ms="0" started-at="2022-03-12T01:49:51 IST" finished-at="2022-03-12T01:49:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleIos -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:QuickAcademy.MavenJava.AppiumTest@1438d26]" name="nativeAppAndroid" duration-ms="0" started-at="2022-03-12T01:49:51 IST" finished-at="2022-03-12T01:49:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- QuickAcademy.MavenJava.AppiumTest -->
+      <class name="QuickAcademy.MavenJava.RESTAPITest">
+        <test-method status="PASS" signature="deleteTitter()[pri:0, instance:QuickAcademy.MavenJava.RESTAPITest@18c1321]" name="deleteTitter" duration-ms="1" started-at="2022-03-12T01:49:51 IST" finished-at="2022-03-12T01:49:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:QuickAcademy.MavenJava.RESTAPITest@18c1321]" name="postJira" duration-ms="0" started-at="2022-03-12T01:49:51 IST" finished-at="2022-03-12T01:49:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- QuickAcademy.MavenJava.RESTAPITest -->
+      <class name="QuickAcademy.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:QuickAcademy.MavenJava.SeleniumTest@19e5ddf]" name="browserAutomation" duration-ms="13" started-at="2022-03-12T01:49:51 IST" finished-at="2022-03-12T01:49:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementUi()[pri:0, instance:QuickAcademy.MavenJava.SeleniumTest@19e5ddf]" name="elementUi" duration-ms="1" started-at="2022-03-12T01:49:51 IST" finished-at="2022-03-12T01:49:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi -->
+      </class> <!-- QuickAcademy.MavenJava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
